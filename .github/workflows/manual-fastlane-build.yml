@@ -1,0 +1,26 @@
+name: Manual Fastlane Build
+
+on:
+  workflow_dispatch:
+
+jobs:
+  verify-spm-build:
+    runs-on: macos-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+
+      - name: Select Xcode
+        uses: maxim-lobanov/setup-xcode@v1
+        with:
+          xcode-version: latest-stable
+
+      - name: Run Fastlane build
+        run: bundle exec fastlane verify_spm_build
+
