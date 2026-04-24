@@ -14,35 +14,51 @@
 		</data>
 		<key>Modules/RealmSwift.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		21PZzkKYocFmio+ZiM71PEd6GAs=
+		Mfb3QI9Sa+zCwb6Gv9BhBXghOSs=
 		</data>
 		<key>Modules/RealmSwift.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		+GG7kXdTKoxRVYOWhhmaK25yXzI=
+		hAX6jfdCVWn094WkVSg5vsglToA=
 		</data>
 		<key>Modules/RealmSwift.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		gcwBsH4BgyFY4sVtNt+/xOKS3vY=
+		tL7q4qs0NS4uzh/f3F6V37AxD7s=
+		</data>
+		<key>Modules/RealmSwift.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		yXDLbHVK9EHJZK3EM8+dPnDA8b8=
 		</data>
 		<key>Modules/RealmSwift.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
 		mKXRyKcg716L6HOnKJgl7bgn3Ww=
 		</data>
+		<key>Modules/RealmSwift.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		SB5j1ayXSkZ1G00m1qMKhovxGy4=
+		</data>
 		<key>Modules/RealmSwift.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		IimBdEVcvEG/Ek9tQhqiyhTqOd4=
+		lAert+J1efyki2aOKaHk9F9KaSg=
 		</data>
 		<key>Modules/RealmSwift.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		gcwBsH4BgyFY4sVtNt+/xOKS3vY=
+		tL7q4qs0NS4uzh/f3F6V37AxD7s=
+		</data>
+		<key>Modules/RealmSwift.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		tlOSoXTO5D5aKC4GpvQGiMh8xL8=
 		</data>
 		<key>Modules/RealmSwift.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
 		6UdeDlokUxUfTcFUNdUyn8POQfg=
 		</data>
+		<key>Modules/RealmSwift.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		iCv/Pz5TG2KhiN3tNPrpyr3Aaf4=
+		</data>
 		<key>Modules/RealmSwift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		uYiHm9pMg20l2Fkf/dZrIQXoSbY=
+		NeWCSOgea8VcgPoopwNO8Wtk/PM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -66,21 +82,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tSrJQeFIZhz0aORe/g4FeDl7OfDrxUqqgVUiZv87oSk=
+			SgGreWWrqGgLhDhQq7itWcvFb35nRh/6D7cBT6+rSiw=
 			</data>
 		</dict>
 		<key>Modules/RealmSwift.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JFS5UsFFkfkNHmtC41YLxynooXBKsnLfA66z3n+yfFk=
+			8zglOzif+3ZeCF9uIwG2+qWR0PA0EJeVoPc/JpuCpTU=
 			</data>
 		</dict>
 		<key>Modules/RealmSwift.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qnesa0n4URGWAopawg9bGx36dUwkYV00BoCJ8LFzlyg=
+			iy8ay8PZdTIe01sz5Dwzj3vpd5GWfmS50hKVDe4wCkY=
+			</data>
+		</dict>
+		<key>Modules/RealmSwift.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6YFxqYRXO0hOqoqK/8jMHo/zJGaktL+GxpSXl9ss4I0=
 			</data>
 		</dict>
 		<key>Modules/RealmSwift.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -90,18 +113,32 @@
 			HaiqDDv8S+tisfiMhaMU0W4/Jbw97F7EK1AWJt9MtQA=
 			</data>
 		</dict>
+		<key>Modules/RealmSwift.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7tVetnzMsghdfff2cbqnEkJtAOzz/AN/LusyhaCV3fM=
+			</data>
+		</dict>
 		<key>Modules/RealmSwift.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mPH8S/G5JCH596ieZhyIW3XFxPmkL61Sq1m2HNH6zUs=
+			ryZN7ykhDOgQFA6uEnpzPCyaseLcFbzcgOVHlTLIsqw=
 			</data>
 		</dict>
 		<key>Modules/RealmSwift.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qnesa0n4URGWAopawg9bGx36dUwkYV00BoCJ8LFzlyg=
+			iy8ay8PZdTIe01sz5Dwzj3vpd5GWfmS50hKVDe4wCkY=
+			</data>
+		</dict>
+		<key>Modules/RealmSwift.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nOaZ0/zGWbNeOQwBkeACNn+MYV7g2+Xscy1awgYReH0=
 			</data>
 		</dict>
 		<key>Modules/RealmSwift.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -111,11 +148,18 @@
 			w2mE5kYteUV8u1kMnxMknVq0117fnLwZvly+h13h4ec=
 			</data>
 		</dict>
+		<key>Modules/RealmSwift.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZjIOaocpMPBveWULpwem08N6L4hfcYnVzfqzI47RBpk=
+			</data>
+		</dict>
 		<key>Modules/RealmSwift.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iswq7zm2TI7z8SoNDiCzuIz6OrEHjwQkkq/h6Ow0clg=
+			lTT5v1Styn55nZlx36FKbS7eIYNharc33ZwtVk1mycs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
