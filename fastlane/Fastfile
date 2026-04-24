@@ -7,7 +7,7 @@ platform :ios do
       project: "TestBinaryApp.xcodeproj",
       scheme: "TestBinaryApp",
       configuration: "Debug",
-      destination: "generic/platform=iOS",
+      destination: "generic/platform=iOS Simulator",
       clean: true,
       skip_package_dependencies_resolution: false,
       skip_profile_detection: true,
