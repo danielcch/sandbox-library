@@ -1,5 +1,5 @@
 {
-  "originHash" : "4acf6e7ae4c92d35e5c1f57a906d4d82a5a396f280d3668eacad337569e79dce",
+  "originHash" : "fe1836b3fe44a2ed4c445537d3d7257e9fb9afc0fb921e06d923de33fa411bf7",
   "pins" : [
     {
       "identity" : "base64",
@@ -8,6 +8,24 @@
       "state" : {
         "revision" : "c7b817b2aed6f33b71a281813f4c940992cfc627",
         "version" : "1.2.2"
+      }
+    },
+    {
+      "identity" : "netshears",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/divar-ir/NetShears",
+      "state" : {
+        "revision" : "871692f4c99844627c02fb64fe36bb6c1271b2a8",
+        "version" : "3.6.1"
+      }
+    },
+    {
+      "identity" : "swift-collections",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-collections.git",
+      "state" : {
+        "revision" : "6675bc0ff86e61436e615df6fc5174e043e57924",
+        "version" : "1.4.1"
       }
     }
   ],

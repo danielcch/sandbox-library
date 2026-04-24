@@ -8,6 +8,7 @@
 import SwiftUI
 import RealmSwift
 import Base64
+import NetShears
 
 class Person: Object {
     @Persisted var name: String = ""

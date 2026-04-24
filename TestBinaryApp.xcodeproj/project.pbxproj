@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		6566F92A2F9B75050036E788 /* Base64 in Frameworks */ = {isa = PBXBuildFile; productRef = 6566F9292F9B75050036E788 /* Base64 */; };
+		6566F92D2F9B815A0036E788 /* NetShears in Frameworks */ = {isa = PBXBuildFile; productRef = 6566F92C2F9B815A0036E788 /* NetShears */; };
 		65892A162F9B54AD00001F5D /* Realm in Frameworks */ = {isa = PBXBuildFile; productRef = 65892A152F9B54AD00001F5D /* Realm */; };
 		65892A182F9B54AD00001F5D /* RealmSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 65892A172F9B54AD00001F5D /* RealmSwift */; };
 /* End PBXBuildFile section */
@@ -31,6 +32,7 @@
 			files = (
 				6566F92A2F9B75050036E788 /* Base64 in Frameworks */,
 				65892A182F9B54AD00001F5D /* RealmSwift in Frameworks */,
+				6566F92D2F9B815A0036E788 /* NetShears in Frameworks */,
 				65892A162F9B54AD00001F5D /* Realm in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -85,6 +87,7 @@
 				65892A152F9B54AD00001F5D /* Realm */,
 				65892A172F9B54AD00001F5D /* RealmSwift */,
 				6566F9292F9B75050036E788 /* Base64 */,
+				6566F92C2F9B815A0036E788 /* NetShears */,
 			);
 			productName = TestBinaryApp;
 			productReference = 6520A2862F9A66D4001F3CFE /* TestBinaryApp.app */;
@@ -117,6 +120,8 @@
 			packageReferences = (
 				65892A142F9B54AD00001F5D /* XCLocalSwiftPackageReference "BinaryPackages/RealmBinary" */,
 				6566F9282F9B75050036E788 /* XCRemoteSwiftPackageReference "Base64" */,
+				6566F92B2F9B815A0036E788 /* XCRemoteSwiftPackageReference "NetShears" */,
+				65A577542F9B833E00F7B1E4 /* XCRemoteSwiftPackageReference "swift-collections" */,
 			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 6520A2872F9A66D4001F3CFE /* Products */;
@@ -377,6 +382,22 @@
 				version = 1.2.2;
 			};
 		};
+		6566F92B2F9B815A0036E788 /* XCRemoteSwiftPackageReference "NetShears" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/divar-ir/NetShears";
+			requirement = {
+				kind = exactVersion;
+				version = 3.6.1;
+			};
+		};
+		65A577542F9B833E00F7B1E4 /* XCRemoteSwiftPackageReference "swift-collections" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/apple/swift-collections.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.4.1;
+			};
+		};
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
@@ -384,6 +405,11 @@
 			isa = XCSwiftPackageProductDependency;
 			package = 6566F9282F9B75050036E788 /* XCRemoteSwiftPackageReference "Base64" */;
 			productName = Base64;
+		};
+		6566F92C2F9B815A0036E788 /* NetShears */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 6566F92B2F9B815A0036E788 /* XCRemoteSwiftPackageReference "NetShears" */;
+			productName = NetShears;
 		};
 		65892A152F9B54AD00001F5D /* Realm */ = {
 			isa = XCSwiftPackageProductDependency;
