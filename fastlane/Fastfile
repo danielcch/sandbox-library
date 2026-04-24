@@ -8,6 +8,7 @@ platform :ios do
       scheme: "TestBinaryApp",
       configuration: "Debug",
       destination: "generic/platform=iOS Simulator",
+      derived_data_path: "./DerivedData",
       clean: true,
       skip_package_dependencies_resolution: false,
       skip_profile_detection: true,
