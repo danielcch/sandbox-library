@@ -7,6 +7,7 @@
 
 import SwiftUI
 import RealmSwift
+import Base64
 
 class Person: Object {
     @Persisted var name: String = ""

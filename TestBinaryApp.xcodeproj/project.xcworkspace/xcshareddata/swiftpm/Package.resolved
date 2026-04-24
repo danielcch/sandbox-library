@@ -1,0 +1,15 @@
+{
+  "originHash" : "4acf6e7ae4c92d35e5c1f57a906d4d82a5a396f280d3668eacad337569e79dce",
+  "pins" : [
+    {
+      "identity" : "base64",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ekscrypto/Base64.git",
+      "state" : {
+        "revision" : "c7b817b2aed6f33b71a281813f4c940992cfc627",
+        "version" : "1.2.2"
+      }
+    }
+  ],
+  "version" : 3
+}
